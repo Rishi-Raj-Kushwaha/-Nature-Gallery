@@ -3,7 +3,7 @@ Description:
 Nature Gallery is a digital showcase celebrating the extraordinary beauty of our planet. From towering mountains to vibrant oceans, the site highlights awe-inspiring landscapes and the delicate balance that sustains life on Earth. It serves as both an invitation and a reminder to cherish, protect, and preserve these natural wonders for future generations.
 
 Live Demo:  
-👉 Visit Nature Gallery on Netlify (app.netlify.com in Bing)
+👉 Visit Nature Gallery on Netlify (https://nature-gallery-personal-24.netlify.app/)
 
 Features:
 
