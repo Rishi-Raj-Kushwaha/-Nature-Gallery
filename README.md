@@ -1,4 +1,6 @@
 🌿 Nature Gallery: Earth’s Hidden Gems
+
+
 Description:  
 Nature Gallery is a digital showcase celebrating the extraordinary beauty of our planet. From towering mountains to vibrant oceans, the site highlights awe-inspiring landscapes and the delicate balance that sustains life on Earth. It serves as both an invitation and a reminder to cherish, protect, and preserve these natural wonders for future generations.
 
